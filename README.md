@@ -1,6 +1,8 @@
 # devprint — Smart Dev Portfolio
 
 > A beautiful, data-driven developer portfolio web app built with React, TypeScript, Vite, and Tailwind CSS.
+>
+> 🔴 **[Live Preview →](https://anshmajumdar121.github.io/devprint/)**
 
 [![React](https://img.shields.io/badge/React-18-blue?logo=react)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](https://www.typescriptlang.org)
